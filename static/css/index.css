@@ -29,7 +29,9 @@ html {
 }
 
 body {
-  font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+  /* 修改了这一行：优先使用 Times New Roman，如果系统没有则尝试 Times，最后使用通用衬线字体 */
+  font-family: 'Times New Roman', Times, serif;
+  /* 以下保持原样 */
   color: var(--text-primary);
   line-height: 1.6;
   font-size: 16px;
