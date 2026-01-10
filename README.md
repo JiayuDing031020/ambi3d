@@ -4,9 +4,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-24xx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/24xx.xxxxx) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-> **"Pass me the vial"** — A harmless command, unless there are two vials: one medicinal, one lethal.
 
-This repository contains the official code and dataset for the paper **"AmbiVer: Open-Vocabulary 3D Instruction Ambiguity Detection"**.
+This repository contains the official code and dataset for the paper **"Open-Vocabulary 3D Instruction Ambiguity Detection"**.
 
 ## 🏠 Abstract
 
